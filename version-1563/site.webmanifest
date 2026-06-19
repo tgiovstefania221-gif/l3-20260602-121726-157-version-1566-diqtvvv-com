@@ -1,0 +1,8 @@
+{
+  "name": "经典国产剧集",
+  "short_name": "经典国产剧集",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fbf8ff",
+  "theme_color": "#7c3aed"
+}
